@@ -7,6 +7,8 @@ Logo Generator
 ## Description
 Program that generates logos as SVG files.
 
+YouTube Demo link: https://www.youtube.com/watch?v=BZ-8GZYmSM8
+
 ## Table of Contents
 - [Installation](#installation)  
 - [Usage](#usage)  
